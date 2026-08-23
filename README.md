@@ -31,7 +31,7 @@ codex plugin add graph-engineering-design@graph-engineering-design
   marketplace.json   # マーケットプレイス定義
   plugin.json        # プラグイン定義
 skills/
-  graph-engineering/
+  graph-engineering-design/
     SKILL.md
     references/
 ```

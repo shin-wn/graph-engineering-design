@@ -1,5 +1,5 @@
 ---
-name: graph-engineering
+name: graph-engineering-design
 description: >-
   リポジトリの実運用ワークフローを明示的な実行グラフとして設計し、graph-design.md（設計根拠と
   決定台帳）と graph.md（人間向け投影）を作成する。「このリポジトリで○○をするための
