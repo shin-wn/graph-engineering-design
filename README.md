@@ -8,9 +8,16 @@
 
 ## インストール
 
+Claude Code
 ```
 /plugin marketplace add shin-wn/graph-engineering-design
 /plugin install graph-engineering-design@graph-engineering-design
+```
+
+Codex:
+```
+codex plugin marketplace add shin-wn/graph-engineering-design
+codex plugin add graph-engineering-design@graph-engineering-design
 ```
 
 ## 使い方
