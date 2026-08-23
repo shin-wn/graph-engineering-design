@@ -1,0 +1,14 @@
+{
+  "name": "graph-engineering-design",
+  "owner": {
+    "name": "jpwstu"
+  },
+  "plugins": [
+    {
+      "name": "graph-engineering-design",
+      "source": "./",
+      "description": "リポジトリの実運用ワークフローを明示的な実行グラフとして設計する Graph Engineering スキル",
+      "version": "0.1.0"
+    }
+  ]
+}

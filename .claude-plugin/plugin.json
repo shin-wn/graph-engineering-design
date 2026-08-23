@@ -1,0 +1,9 @@
+{
+  "name": "graph-engineering-design",
+  "version": "0.1.0",
+  "description": "リポジトリの実運用ワークフローを明示的な実行グラフとして設計し、graph-design.md と graph.md を作成する Skill",
+  "author": {
+    "name": "jpwstu"
+  },
+  "keywords": ["graph", "workflow", "design", "skill"]
+}
