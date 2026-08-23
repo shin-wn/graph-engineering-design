@@ -9,7 +9,7 @@
 ## インストール
 
 ```
-/plugin marketplace add jpwstu/graph-engineering-design
+/plugin marketplace add shin-wn/graph-engineering-design
 /plugin install graph-engineering-design@graph-engineering-design
 ```
 
